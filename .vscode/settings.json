@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./scikit-learn-C4.5-tree-classifier-master"
+    ]
+}

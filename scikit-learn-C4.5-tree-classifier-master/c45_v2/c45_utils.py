@@ -30,6 +30,7 @@ def entropy(x):
     for k in set(x):
         p_i=float(x.count(k))/len(x)
         ent=ent-p_i* math.log(p_i,2)
+    
     print('x:')
     print(x)
     print('Entropy:')

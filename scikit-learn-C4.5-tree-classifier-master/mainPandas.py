@@ -1,4 +1,3 @@
-from sklearn.datasets import load_iris
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from c45_v2 import C45
